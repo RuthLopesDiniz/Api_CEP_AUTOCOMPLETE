@@ -22,4 +22,4 @@ Este projeto consiste em consultar uma Api usando o cep de algum endereço, rece
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/RuthLopesDiniz/Api_CEP_AUTOCOMPLETE/blob/main/image.png?raw=true)
